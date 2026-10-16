@@ -1,0 +1,7 @@
+node_modules/
+.n8n-data/
+.env
+.DS_Store
+supabase/.temp/
+supabase/.branches/
+supabase/snippets/
